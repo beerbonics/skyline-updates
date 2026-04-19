@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "latest": {
+    "version": "0.9.0",
+    "date": "2026-04-18",
+    "notes": "WebSocket UI, scene format, data versioning, cloud OTA",
+    "builds": {
+      "esp32c3": {
+        "url": "https://raw.githubusercontent.com/beerbonics/skyline-updates/master/v0.9.0/skyline-c3.bin",
+        "sha256": "8244a882618e614b9fdb3af2429cebb624fae5875a66f691d7b1738eaf1c1ee7"
+      },
+      "esp32": {
+        "url": "https://raw.githubusercontent.com/beerbonics/skyline-updates/master/v0.9.0/skyline-esp32.bin",
+        "sha256": "3476b22fe494424f8494d9ab3754bdc6dab525c727c515485f5034feaf0eedc0"
+      }
+    }
+  }
+}
